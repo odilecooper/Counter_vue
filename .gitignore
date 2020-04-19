@@ -6,6 +6,11 @@ yarn-debug.log*
 yarn-error.log*
 /test/
 selenium-debug.log
+.babelrc
+.eslintignore
+.eslintrc.js
+.postcssrc.js
+.package-lock.json
 
 # Editor directories and files
 .idea
